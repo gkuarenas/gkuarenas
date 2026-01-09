@@ -13,15 +13,6 @@ Currently interested in projects that blend **engineering + AI**!
 
 ---
 
-## 🚀 Featured projects
-### 🧠 PCB Defect Detection (YOLOv8 + TensorRT)
-Optimized inference pipeline for PCB defect detection with accelerated deployment.  
-Paper: https://doi.org/10.1109/TENCON61640.2024.10902913
-
-### 📦 Package Defect Sorter (YOLO)
-An intelligent quality control system that detects and classifies defects in packaging cartons using computer vision.  
-Repo: https://github.com/YOUR_USERNAME/package-defect-sorter-yolo11
-
 ## 🤝 Let’s connect
 - LinkedIn: https://www.linkedin.com/in/guillaumearenas
 - Email: guillaume.arenas0712@gmail.com
