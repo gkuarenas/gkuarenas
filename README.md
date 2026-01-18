@@ -6,7 +6,7 @@ Currently interested in projects that blend **engineering + AI**!
 ---
 
 ## 🔭 What I'm working on
-- **Visuotactile / mechanoluminescent sensing** (thesis work)
+- **Visuotactile / mechanoluminescent sensing** (Master's thesis work)
 - **Computer vision defect detection** (YOLO + deployment optimizations)
 - **Applied ML projects** 
 - Small **IoT / automation** builds (Node.js / dashboards / sensors)
