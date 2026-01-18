@@ -1,6 +1,6 @@
 # Hi, I'm Guillaume 👋
 
-BSMS Manufacturing Engineering & Management (DLSU) | Computer Vision • ML • Sensors • Automation  
+Aspiring ML/CV Engineer | Computer Vision • ML • Sensors • Automation  
 Currently interested in projects that blend **engineering + AI**!
 
 ---
