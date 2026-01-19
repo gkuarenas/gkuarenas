@@ -14,7 +14,10 @@ Currently interested in projects that blend **engineering + AI**!
 ---
 
 ## 🤝 Let’s connect
-[![LinkedIn](https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667)](https://www.linkedin.com/in/guillaumearenas/)
+<a href="https://www.linkedin.com/in/guillaumearenas/">
+  <img src="https://camo.githubusercontent.com/37721330bfccf66cef0751f05a58b822007b5460ecb825adf0b100fc8f00fbd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="LinkedIn" width="28" />
+</a>
+
 [![GMail](https://camo.githubusercontent.com/37721330bfccf66cef0751f05a58b822007b5460ecb825adf0b100fc8f00fbd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667)]
 
 <!--
