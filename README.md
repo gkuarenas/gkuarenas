@@ -14,8 +14,8 @@ Currently interested in projects that blend **engineering + AI**!
 ---
 
 ## 🤝 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/guillaumearenas
-- Email: guillaume.arenas0712@gmail.com
+[![LinkedIn](https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667)](https://www.linkedin.com/in/guillaumearenas/)
+[![GMail](https://camo.githubusercontent.com/37721330bfccf66cef0751f05a58b822007b5460ecb825adf0b100fc8f00fbd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667)]
 
 <!--
 **gkuarenas/gkuarenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
