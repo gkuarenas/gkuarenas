@@ -1,14 +1,14 @@
 # Hi, I'm Guillaume 👋
 
-Aspiring ML Engineer/Data Scientist | Computer Vision • ML • Sensors • Automation  
+Aspiring ML Engineer/Data Scientist 
 Currently interested in projects that blend **engineering + AI**!
 
 ---
 
 ## 🔭 What I'm working on
-- **Visuotactile / mechanoluminescent sensing** (Master's thesis work)
-- **Computer vision projects** (YOLO + deployment optimizations)
+- **Visuotactile sensing** (Master's thesis work)
 - **Applied ML projects** 
+- **Computer vision projects** (YOLO + deployment optimizations)
 - Small **IoT / automation** builds (Node.js / dashboards / sensors)
 
 ---
