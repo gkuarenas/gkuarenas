@@ -1,6 +1,7 @@
 # Hi, I'm Guillaume 👋
 
-Aspiring ML Engineer/Data Scientist 
+I'm an aspiring ML Engineer/Data Scientist
+
 Currently interested in projects that blend **engineering + AI**!
 
 ---
